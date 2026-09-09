@@ -37,12 +37,6 @@
   },
   {
     "repository": "gobject-introspection",
-    "artifact": 10087430428,
-    "file": "winflexbison-2.5.25-ha154f87_0.conda",
-    "sha256": "166b26399af1945fdbc4593a3dcebf30ed15210776be5d473d3d4648b7e322f3"
-  },
-  {
-    "repository": "gobject-introspection",
     "artifact": 10087422950,
     "file": "g-ir-build-tools-1.86.0-py314h17838c3_4.conda",
     "sha256": "39d8663e331a2cc0d59a50dd7559bc7659c3219cb33a0344f8c74d84ae25d35a"
