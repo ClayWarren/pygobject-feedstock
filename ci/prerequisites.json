@@ -1,0 +1,110 @@
+[
+  {
+    "artifact": 10085932435,
+    "repository": "cairo",
+    "file": "cairo-1.18.4-h39bda8e_3.conda",
+    "sha256": "e308c353aa1f728445c1c60eb061fddf7a8ab7001c975275cb936d53f2322a09"
+  },
+  {
+    "artifact": 10085155281,
+    "repository": "fontconfig",
+    "file": "fontconfig-2.18.3-hb7620e2_2.conda",
+    "sha256": "24ff81517612d8976a970c16eeb490e14acaff92b6e8910700353e7aee2dda4d"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087430428,
+    "file": "g-ir-build-tools-1.86.0-py314h9374f99_4.conda",
+    "sha256": "8166e2320d62ae79fb5bb270035994800f1800048fb0c9c3ab3dd8d6cfcda7fb"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087430428,
+    "file": "g-ir-host-tools-1.86.0-h5ce275a_4.conda",
+    "sha256": "4557ed6f66a75b2a214f4d2055a0417059082989e578fe8e9f7253319b304880"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087430428,
+    "file": "gobject-introspection-1.86.0-py314h26e15ad_4.conda",
+    "sha256": "9f4217bb915871323d8daeaffb101b6807a44f25bfab39147388ed52be4c8f38"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087430428,
+    "file": "libgirepository-1.86.0-hf750528_4.conda",
+    "sha256": "70e0df14d082520bace52d530bd9e6a9ce755706882cde8e788b366713e95b9e"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087430428,
+    "file": "winflexbison-2.5.25-ha154f87_0.conda",
+    "sha256": "166b26399af1945fdbc4593a3dcebf30ed15210776be5d473d3d4648b7e322f3"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087422950,
+    "file": "g-ir-build-tools-1.86.0-py314h17838c3_4.conda",
+    "sha256": "39d8663e331a2cc0d59a50dd7559bc7659c3219cb33a0344f8c74d84ae25d35a"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087422950,
+    "file": "g-ir-host-tools-1.86.0-h1330851_4.conda",
+    "sha256": "01a40311ed9aef2856006857b3877d349b6d514f995ae3b4357811ff52951caa"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087422950,
+    "file": "gobject-introspection-1.86.0-py314h49dfff0_4.conda",
+    "sha256": "24e49f94ed903ac757a93e9f014342ae69731526f0ba6e7b8fb2fbefc8c3472b"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087422950,
+    "file": "libgirepository-1.86.0-hd4e8e05_4.conda",
+    "sha256": "36b29b00b8e39aeb3cf6686ecf092de3af36c8376f47eb7ac647a43dac5624fe"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087429182,
+    "file": "g-ir-build-tools-1.86.0-py315hd230f15_4.conda",
+    "sha256": "e2ef4191508f8c30ce6e3ecd753287c2d788e7654e7502ff35411dfc5ad02caa"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087429182,
+    "file": "g-ir-host-tools-1.86.0-h4829cdb_4.conda",
+    "sha256": "7b7cab569b5b010a7fe300ee9e2c529504bd478e05aa4a7ee2b8b3c0cf1fd7e3"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087429182,
+    "file": "gobject-introspection-1.86.0-py315hab8a987_4.conda",
+    "sha256": "6c7d51a6a6e2c91a36768f32d4c86902c211cfd766cfd97e81b8e2b29e682dbe"
+  },
+  {
+    "repository": "gobject-introspection",
+    "artifact": 10087429182,
+    "file": "libgirepository-1.86.0-h0a04b59_4.conda",
+    "sha256": "2bb59dbb5de080c59b505dcd69b07cc0adf14044aa3c3af3d3720bdaa234a20c"
+  },
+  {
+    "repository": "pycairo",
+    "artifact": 10088310223,
+    "file": "pycairo-1.29.1-py314hb973edc_3.conda",
+    "sha256": "155e06b3548f91e3b4a0cda9aded8f87a17c917170d7d293498174872e05a728"
+  },
+  {
+    "repository": "pycairo",
+    "artifact": 10088336767,
+    "file": "pycairo-1.29.1-py314h9a64644_3.conda",
+    "sha256": "e917c2f84aad76fb38f8ea89390a1c044c43659daf392818268953db0e770aed"
+  },
+  {
+    "repository": "pycairo",
+    "artifact": 10088317900,
+    "file": "pycairo-1.29.1-py315h96cabbe_3.conda",
+    "sha256": "c821eddac5bbffbd308e4efa782b1d68ffe672acc4c83e0e18c1183debb47bed"
+  }
+]
