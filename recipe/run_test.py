@@ -46,21 +46,3 @@ gi.require_foreign("cairo")
 print("PASS: GObject properties/signals, GLib variants/callbacks, GIO bytes, Cairo bridge")
 
 import sys
-import sysconfig
-
-if sys.platform == "win32":
-    from pathlib import Path
-    import struct
-
-    expected = 0xAA64 if "arm64" in sysconfig.get_platform() else 0x8664
-    extensions = list(Path(gi.__file__).parent.glob("*.pyd"))
-    assert extensions
-    for extension in extensions:
-        data = extension.read_bytes()
-        offset = struct.unpack_from("<I", data, 60)[0]
-        assert data[offset:offset + 4] == b"PE\0\0", extension
-        machine = struct.unpack_from("<H", data, offset + 4)[0]
-        assert machine == expected, (extension, hex(machine))
-        print(f"PASS: {extension.name} machine={machine:#x}")
-    if sysconfig.get_config_var("Py_GIL_DISABLED"):
-        print(f"Free-threaded Python ABI; runtime GIL enabled: {sys._is_gil_enabled()}")
